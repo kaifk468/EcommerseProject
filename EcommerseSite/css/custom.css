@@ -15,3 +15,6 @@
     font-family: "Poppins";
     cursor: pointer;
 }
+.wishlist{
+    max-height: 200px;
+}

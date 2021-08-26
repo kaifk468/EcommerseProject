@@ -51,8 +51,8 @@ $res=mysqli_query($con,"select product.name,product.image,product.price,product.
 										while($row=mysqli_fetch_assoc($res)){
 										?>
 											<tr>
-												<td class="product-thumbnail"><a href="#"><img src="<?php echo PRODUCT_IMAGE_SITE_PATH.$row['image']?>"  /></a></td>
-												<td class="product-name"><a href="#"><?php echo $row['name']?></a>
+												<td class="product-thumbnail wishlist"><a href="#"><img src="<?php echo PRODUCT_IMAGE_SITE_PATH.$row['image']?>"  /></a></td>
+												<td class="product-name wishlist"><a href="#"><?php echo $row['name']?></a>
 													<ul  class="pro__prize">
 														<li class="old__prize"><?php echo $row['mrp']?></li>
 														<li><?php echo $row['price']?></li>

@@ -12,7 +12,7 @@
                                 <div class="slide">
                                     <div class="slider__inner">
                                         <h2>collection 2018</h2>
-                                        <h1>NICE CHAIR</h1>
+                                        <h1>NICE CLOTHES</h1>
                                         <div class="cr__btn">
                                             <a href="cart.html">Shop Now</a>
                                         </div>
@@ -21,7 +21,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/1.png" alt="slider images">
+                                    <img src="images/slider/fornt-img/6.jpg" alt="slider images">
                                 </div>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                                 <div class="slide">
                                     <div class="slider__inner">
                                         <h2>collection 2018</h2>
-                                        <h1>NICE CHAIR</h1>
+                                        <h1>Electronics</h1>
                                         <div class="cr__btn">
                                             <a href="cart.html">Shop Now</a>
                                         </div>
@@ -45,7 +45,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/2.png" alt="slider images">
+                                    <img src="images/slider/fornt-img/55.png" alt="slider images">
                                 </div>
                             </div>
                         </div>

@@ -24,7 +24,7 @@ if($type=='email'){
 	$mail->SMTPAuth=true;
 	$mail->Username="kaifk836@gmail.com";
 	$mail->Password="7408001310";
-	$mail->SetFrom("SMTP_EMAIL_ID");
+	$mail->SetFrom("kaifk836@gmail.com");
 	$mail->addAddress($email);
 	$mail->IsHTML(true);
 	$mail->Subject="New OTP";
